@@ -1,4 +1,4 @@
-## Authenticator Module
+# Authenticator Module
 
 ## Getting Started
 TBD
