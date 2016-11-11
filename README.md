@@ -2,6 +2,10 @@
 
 ## Getting Started
 ### Prerequisites
+#### mongodb
+```sh
+sudo apt-get install mongodb
+```
 #### npm
 ```sh
 sudo apt-get install npm
