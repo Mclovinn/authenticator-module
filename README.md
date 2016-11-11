@@ -1,6 +1,27 @@
 # Authenticator Module
 
 ## Getting Started
+### Prerequisites
+#### npm
+```sh
+sudo apt-get install npm
+```
+#### nvm
+```sh
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.32.1/install.sh | bash
+```
+ * more in https://github.com/creationix/nvm/blob/master/README.markdown#install-script
+
+#### node v6.0.0
+```sh
+nvm install v6.0.0
+```
+
+* you can check with:
+```sh
+node -v
+```
+
 ### Install Dependencies
 
 To install the dependencies of this project we have to do:
